@@ -1,0 +1,16 @@
+{
+    "name": "oshry/maple",
+    "description": "Email processor",
+    "require": {
+        "swiftmailer/swiftmailer": "~5.3"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "~2.1"
+    },
+    "authors": [
+        {
+            "name": "Oshry Levy",
+            "email": "oshrylevy@gmail.com"
+        }
+    ]
+}
